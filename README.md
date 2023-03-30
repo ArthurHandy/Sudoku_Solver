@@ -3,9 +3,7 @@
 - What is Sudoku? Sudoku is a popular puzzle game that is required to fill a 9 x 9 grid with numbers in each column and row. In each of the 9 x 9 grids there are subs grids of 3 x 3 that must contain a single number from 1 to 9. 
 - Sudoku_Solver fills in each blank spot from left to right, until your sudoku puzzle is full of numbers.
 
-
 https://user-images.githubusercontent.com/71150400/228752518-1d57e9d2-34d7-47f2-acc8-5b308b56e34a.mp4
-
 
 ## Prerequisites
 Make sure to keep up to date with Python latest version.
@@ -21,7 +19,7 @@ pip install -r requirement.txt
 ## Installing
 Clone the repository
 ```
- git clone https://github.com/ArthurHandy/Sudoku_Solver.git
+git clone https://github.com/ArthurHandy/Sudoku_Solver.git
 ```
 
 PyAutoGUI on Windows
@@ -40,6 +38,10 @@ python3 -m pip install pyautogui
 ```
 
 ## Running Program
+
+
+https://user-images.githubusercontent.com/71150400/228753662-6e81ca1e-f764-48af-bd37-48dd0fc914c3.mp4
+
 
 ## Built With
 - [Python](https://python.org) - Programming language used
