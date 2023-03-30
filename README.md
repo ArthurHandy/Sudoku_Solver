@@ -39,6 +39,7 @@ python3 -m pip install pyautogui
 
 ## Running Program
 
+https://user-images.githubusercontent.com/71150400/228759458-2671edd7-6fc0-4ab5-b343-8b61cb8fe30f.mp4
 
 ## Built With
 - [Python](https://python.org) - Programming language used
