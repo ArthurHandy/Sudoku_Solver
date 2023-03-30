@@ -40,9 +40,6 @@ python3 -m pip install pyautogui
 ## Running Program
 
 
-https://user-images.githubusercontent.com/71150400/228753662-6e81ca1e-f764-48af-bd37-48dd0fc914c3.mp4
-
-
 ## Built With
 - [Python](https://python.org) - Programming language used
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - Cross-platform GUI automation Python module that is used to control the mouse and keyboard
