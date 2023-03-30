@@ -45,3 +45,5 @@ https://user-images.githubusercontent.com/71150400/228759458-2671edd7-6fc0-4ab5-
 - [Python](https://python.org) - Programming language used
 - [PyAutoGUI](https://github.com/asweigart/pyautogui) - Cross-platform GUI automation Python module that is used to control the mouse and keyboard
 - [NumPy](https://numpy.org/) - Python library used to help with large array of 9 columns and 9 rows
+- time
+- sys
