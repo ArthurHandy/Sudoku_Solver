@@ -34,12 +34,12 @@ PyAutoGUI Linux:
 python3 -m pip install pyautogui
 ```
 
-## Running Program
 Clone the repository:
 ```
 git clone https://github.com/ArthurHandy/Sudoku_Solver.git
 ```
 
+## Running Program
 Run Sudoku_Solver:
 ```
 python main.py
